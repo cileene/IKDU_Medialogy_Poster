@@ -10,12 +10,26 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore all build artifacts
+/build/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
-
-# Mac specific files
-.DS_Store
 
 # Recordings can get excessive in size
 /[Rr]ecordings/
