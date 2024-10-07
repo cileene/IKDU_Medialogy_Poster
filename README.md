@@ -1,2 +1,8 @@
 # IKDU_Medialogy_Poster
  A poster design for my IKDU course at Aalborg University fall 2024
+
+### Inspirations
+
+- MC. Escher
+- Rube Goldberg
+- Monument Valley
