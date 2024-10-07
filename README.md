@@ -1,6 +1,6 @@
 # IKDU Medialogy Poster
 
- A poster design for my IKDU course at Aalborg University fall 2024
+ A interactive physical poster design for my IKDU course at Aalborg University fall 2024
 
 ## Inspirations
 
