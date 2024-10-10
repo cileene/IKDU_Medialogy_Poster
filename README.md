@@ -4,6 +4,8 @@
 
  [A interactive physical poster design for my IKDU course at Aalborg University fall 2024](https://cileene.github.io/IKDU_Medialogy_Poster/)
 
+ The poster is designed to be printed in A0 format. Scanning the QR code on the physical poster takes you to the webbuild of this project.
+
 ## Inspiration / Keywords
 
 - Rube Goldberg
