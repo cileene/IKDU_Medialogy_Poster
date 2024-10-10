@@ -6,6 +6,8 @@
 
  The poster is designed to be printed in A0 format. Scanning the QR code on the physical poster takes you to the webbuild of this project.
 
+ NB: The physics sim is non-deterministic... So if the last composition looks off, well just try again! (bug/feature??)
+
 ## Inspiration / Keywords
 
 - Rube Goldberg
