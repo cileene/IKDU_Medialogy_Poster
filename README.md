@@ -1,19 +1,17 @@
 # IKDU Medialogy Poster
 
+![Physical poster design](Assets/PosterStills/01.jpg)
+
  A interactive physical poster design for my IKDU course at Aalborg University fall 2024
 
-## Inspirations
+## Inspiration / Keywords
 
-- MC. Escher
 - Rube Goldberg
-- Monument Valley
-
-## Keywords
-
+- Bauhaus
+- Old roadrunner cartoons
 - Flat shading
 - Isometric
-- Optical illusions
-- White boxing
+- Physics simulation
 
 ## Using
 
@@ -21,3 +19,5 @@
   - ProBuilder
   - Post Processing Stack
   - Shader Graph
+
+![Poster final state](Assets/PosterStills/06.jpg)
