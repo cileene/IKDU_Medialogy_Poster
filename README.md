@@ -2,7 +2,7 @@
 
 ![Physical poster design](Assets/PosterStills/01.jpg)
 
- A interactive physical poster design for my IKDU course at Aalborg University fall 2024
+ [A interactive physical poster design for my IKDU course at Aalborg University fall 2024](https://cileene.github.io/IKDU_Medialogy_Poster/)
 
 ## Inspiration / Keywords
 
