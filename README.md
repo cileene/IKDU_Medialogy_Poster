@@ -10,7 +10,8 @@
 - Bauhaus
 - Old roadrunner cartoons
 - Flat shading
-- Isometric
+  - (bad) Custom shader
+- Orthographic
 - Physics simulation
 
 ## Using
