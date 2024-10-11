@@ -14,6 +14,7 @@
 - Bauhaus
 - Old roadrunner cartoons
   - Maurice Noble
+- The album cover for the Domenique Dumont album "Miniatures de auto rythm".
 - Flat shading
   - (bad) Custom shader
 - Orthographic
