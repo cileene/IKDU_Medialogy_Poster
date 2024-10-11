@@ -13,6 +13,7 @@
 - Rube Goldberg
 - Bauhaus
 - Old roadrunner cartoons
+  - Maurice Noble
 - Flat shading
   - (bad) Custom shader
 - Orthographic
