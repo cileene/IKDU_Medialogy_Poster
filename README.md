@@ -25,4 +25,14 @@
   - Post Processing Stack
   - Shader Graph
 
+## Tested on
+
+- iPhone
+  - 12 Pro
+  - 13 Mini
+- Mac
+  - Arc
+  - Chrome
+  - Safari
+
 ![Poster final state](Assets/PosterStills/06.jpg)
