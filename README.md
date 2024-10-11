@@ -41,5 +41,5 @@
   - Chrome
   - Safari
 
-![Poster final state](Assets/PosterStills/06.jpg)
+![Poster final state](Assets/PosterStills/14.jpg)
 The interactive posters final composition with a button leading to more info on Medialogy at Aalborg University.
