@@ -25,7 +25,7 @@
 
 ## Using
 
-- Unity 6 Preview (6000.0.15f1)
+- Unity 6 LTS (6000.0.23f1)
   - ProBuilder
   - Post Processing Stack
   - Shader Graph
