@@ -4,7 +4,7 @@
 
  [A interactive physical poster design for my IKDU course at Aalborg University fall 2024](https://cileene.github.io/IKDU_Medialogy_Poster/)
 
- The poster is designed to be printed in A0 format. Scanning the QR code on the physical poster takes you to the interactive version running in the browser.
+ The poster is designed to be printed in A3 format. Scanning the QR code on the physical poster takes you to the interactive version running in the browser.
 
  NB: The physics sim is non-deterministic... So if the last composition looks off, well just try again! (bug/feature??)
 
